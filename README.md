@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @NewthingAde
 - 👀 I’m interested in data Science, Data Analysis, Machine learning, Web development and cloud computing. 
-- 🌱 I’m currently learning Cloud Developer Nanodegree Program
-- 💞️ I’m looking to collaborate working on a variety of technologies including Web Development, cloud computing and deep learning
-- 📫 You can reach me on tunsanfc@gmail.com or +46736485099
+- 🌱 I’m currently into Machine learning and its application to Data Science.
+- 💞️ I’m looking to collaborate working on a variety of technologies including Data Analysis, Data Science, Web Development, SQl, Data Studio, Big query cloud computing and deep learning
+- Ask me about anything Data Science, Machine Learning, Web development, Cloud Computing and anything about data.
+- 📫 You can reach me on tunsanfc@gmail.com or +46736485099.
+- I love Tennis and want to start playing golf next summer
 
 <!---
 NewthingAde/NewthingAde is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
