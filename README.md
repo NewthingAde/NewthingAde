@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NewthingAde
+- 👋 Hi, I’m Oluwasegun Adesanya
 - 👀 I’m interested in data Science, Data Analysis, Machine learning, Web development and cloud computing. 
 - 🌱 I’m currently into Machine learning and its application to Data Science.
 - 💞️ I’m looking to collaborate working on a variety of technologies including Data Analysis, Data Science, Web Development, SQL, Data Studio, Big query cloud computing and deep learning
